@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ccebb5a.css",
+    "main.js": "/static/js/main.35d4a6a0.js",
+    "index.html": "/index.html",
+    "static/media/image.svg": "/static/media/image.52b5558029f578ecffce64133f325e31.svg",
+    "static/media/chevron-left-svgrepo-com.svg": "/static/media/chevron-left-svgrepo-com.265c43ca8cbca0d5ae4abf95557b7f4c.svg",
+    "static/media/chevron-right-svgrepo-com.svg": "/static/media/chevron-right-svgrepo-com.473b626bc8239ddc5db20812999189c9.svg",
+    "main.3ccebb5a.css.map": "/static/css/main.3ccebb5a.css.map",
+    "main.35d4a6a0.js.map": "/static/js/main.35d4a6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ccebb5a.css",
+    "static/js/main.35d4a6a0.js"
+  ]
+}
